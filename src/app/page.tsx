@@ -148,7 +148,7 @@ export default function LandingPage() {
         {
           id: "m1",          name: "Marko",          role: "",          imageSrc: "http://img.b2bpic.net/free-photo/young-tattooer-dreamily-looking-camera-spending-time-modern-tattoo-studio_574295-673.jpg"},
         {
-          id: "m2",          name: "Marta",          role: "",          imageSrc: "http://img.b2bpic.net/free-photo/woman-in-denim-jacket-smiling-at-the-camera_114579-3736.jpg"},
+          id: "m2",          name: "Iva ",          role: "",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D8el9a4JwbvdbDnMQkhaXtGvO6/uploaded-1777669511508-wv53m42m.png"},
         {
           id: "m3",          name: "Adam ",          role: "",          imageSrc: "http://img.b2bpic.net/free-photo/young-bearded-tattooed-man-cafe-street-with-glass-wine-romantic-guy-white-cap-suspenders-city-peaky-blinders-old-fashionable-retro_1321-2027.jpg"},
       ]}
