@@ -220,19 +220,19 @@ export default function LandingPage() {
         {
           id: "m1",
           name: "Marko",
-          role: "Head Artist",
+          role: "",
           imageSrc: "http://img.b2bpic.net/free-photo/young-tattooer-dreamily-looking-camera-spending-time-modern-tattoo-studio_574295-673.jpg",
         },
         {
           id: "m2",
-          name: "Sara",
-          role: "Fine Line Specialist",
+          name: "Iva ",
+          role: "",
           imageSrc: "http://img.b2bpic.net/free-photo/man-is-working-cafe-concept-freelancing-coffee-laptop_1321-898.jpg",
         },
         {
           id: "m3",
-          name: "Luka",
-          role: "Traditional Artist",
+          name: "Adam ",
+          role: "",
           imageSrc: "http://img.b2bpic.net/free-photo/young-bearded-tattooed-man-cafe-street-with-glass-wine-romantic-guy-white-cap-suspenders-city-peaky-blinders-old-fashionable-retro_1321-2027.jpg",
         },
       ]}
