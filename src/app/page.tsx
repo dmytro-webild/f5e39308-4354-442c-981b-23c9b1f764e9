@@ -146,7 +146,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       members={[
         {
-          id: "m1",          name: "Giuseppeom ",          role: "",          imageSrc: "http://img.b2bpic.net/free-photo/young-tattooer-dreamily-looking-camera-spending-time-modern-tattoo-studio_574295-673.jpg"},
+          id: "m1",          name: "Giuseppe",          role: "",          imageSrc: "http://img.b2bpic.net/free-photo/young-tattooer-dreamily-looking-camera-spending-time-modern-tattoo-studio_574295-673.jpg"},
         {
           id: "m2",          name: "Iva ",          role: "",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D8el9a4JwbvdbDnMQkhaXtGvO6/uploaded-1777669511508-wv53m42m.png"},
         {
